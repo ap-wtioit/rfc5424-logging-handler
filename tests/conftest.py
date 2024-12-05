@@ -18,7 +18,7 @@ class SomeClass:
 
 
 address = ('127.0.0.1', 514)
-timezone = pytz.timezone('Antarctica/Vostok')
+timezone = pytz.timezone('Etc/GMT-6')
 message = 'This is an interesting message'
 
 sd1 = {'my_sd_id1@32473': {'my_key1': 'my_value1'}}
