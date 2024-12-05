@@ -1,7 +1,6 @@
 import logging
 import socket
 from collections import OrderedDict
-from six import python_2_unicode_compatible
 import pytest
 import pytz
 from mock import patch
